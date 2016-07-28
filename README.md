@@ -13,7 +13,7 @@ Table of Contents
 [Conquering The Command Line](http://conqueringthecommandline.com/book)
 
 [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-#### Books
+#### Collection of Various Books
 [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 
 [AntJanus/Books](https://github.com/AntJanus/Books)
@@ -74,6 +74,8 @@ Table of Contents
 
 [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 #### Other
+[Reverse Engineering for Beginners - dennis714/RE-for-beginners](https://github.com/dennis714/RE-for-beginners)
+
 [GitBook](https://www.gitbook.com/@gitbookio)
 
 [Resources About Public Speaking - matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking)
