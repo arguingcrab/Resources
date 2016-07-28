@@ -21,6 +21,8 @@ Table of Contents
 [spinlockirqsave/books](https://github.com/spinlockirqsave/books)
 
 [Learn **X** in **Y** Minutes - adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+
+[Front End Development Bookmarks - dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 #### Courses
 [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
