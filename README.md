@@ -104,3 +104,22 @@ Table of Contents
 
 [100 Ideas for Computing - samsquire/ideas](https://github.com/samsquire/ideas)
 ### Fun / Cool Things
+[2D HTML5 Games with Phaser - photonstorm/phaser](https://github.com/photonstorm/phaser)
+
+[Gamify Your Tasks - https://github.com/HabitRPG/habitrpg](https://github.com/HabitRPG/habitrpg)
+
+[Minimal Distraction-Free Chat App - https://github.com/AndrewBelt/hack.chat](https://github.com/AndrewBelt/hack.chat)
+
+[2D Games with LUA](https://love2d.org/)
+
+[CSS Diner - https://github.com/flukeout/restaurant](http://flukeout.github.io/)
+
+[Play with Programming](https://www.codingame.com/start)
+
+[Untrusted Meta-JS Game](https://github.com/AlexNisnevich/untrusted)
+
+[JS Skill Tree](http://www.dungeonsanddevelopers.com/)
+
+[Procedurally Generating Text - https://github.com/TheBerkin/Rant](https://github.com/TheBerkin/Rant)
+
+[Audio Kit](https://github.com/audiokit/AudioKit)
