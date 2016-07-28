@@ -20,7 +20,7 @@ Table of Contents
 
 [spinlockirqsave/books](https://github.com/spinlockirqsave/books)
 
-[Learn *X* in *Y* Minutes - adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+[Learn **X** in **Y** Minutes - adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
 #### Courses
 [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
@@ -36,9 +36,9 @@ Table of Contents
 #### Javascript
 [nzakas/computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)
 
-[](https://github.com/getify/You-Dont-Know-JS)
+[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
-[](https://github.com/mixu/singlepageappbook)
+[mixu/singlepageappbook](https://github.com/mixu/singlepageappbook)
 
 [Learning Advanced JS](http://ejohn.org/apps/learn/)
 
@@ -105,7 +105,7 @@ Table of Contents
 [Public Icons on a Public Domain](http://publicicons.org/)
 
 [Tasty CSS-Animated Hamburgers](https://jonsuh.com/hamburgers/)
-### Challenges
+### Challenges & Ideas
 [karan/Projects](https://github.com/karan/Projects) with [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions)
 
 [100 Ideas for Computing - samsquire/ideas](https://github.com/samsquire/ideas)
@@ -137,3 +137,7 @@ Table of Contents
 [Rich Text Editor - guardian/scribe](https://github.com/guardian/scribe)
 
 [A minimalist writing zone - tholman/zenpen](https://github.com/tholman/zenpen)
+
+[HTML5/JavaScript Gauntlet - jakesgordon/javascript-gauntlet](https://github.com/jakesgordon/javascript-gauntlet)
+
+[JS Library for Card Games - /einaregilsson/cards.js](https://github.com/einaregilsson/cards.js)
