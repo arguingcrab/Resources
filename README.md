@@ -13,12 +13,14 @@ Table of Contents
 [Conquering The Command Line](http://conqueringthecommandline.com/book)
 
 [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-#### Collection of Various Books
+#### Collection of Various Books & Materials (Mixed)
 [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 
 [AntJanus/Books](https://github.com/AntJanus/Books)
 
 [spinlockirqsave/books](https://github.com/spinlockirqsave/books)
+
+[Learn *X* in *Y* Minutes - adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
 #### Courses
 [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
@@ -110,9 +112,9 @@ Table of Contents
 ### Fun / Cool Things
 [2D HTML5 Games with Phaser - photonstorm/phaser](https://github.com/photonstorm/phaser)
 
-[Gamify Your Tasks - https://github.com/HabitRPG/habitrpg](https://github.com/HabitRPG/habitrpg)
+[Gamify Your Tasks - HabitRPG/habitrpg](https://github.com/HabitRPG/habitrpg)
 
-[Minimal Distraction-Free Chat App - https://github.com/AndrewBelt/hack.chat](https://github.com/AndrewBelt/hack.chat)
+[Minimal Distraction-Free Chat App - AndrewBelt/hack.chat](https://github.com/AndrewBelt/hack.chat)
 
 [2D Games with LUA](https://love2d.org/)
 
@@ -120,13 +122,13 @@ Table of Contents
 
 [Play with Programming](https://www.codingame.com/start)
 
-[Untrusted Meta-JS Game](https://github.com/AlexNisnevich/untrusted)
+[Untrusted Meta-JS Game - AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted)
 
 [JS Skill Tree](http://www.dungeonsanddevelopers.com/)
 
 [Procedurally Generating Text - https://github.com/TheBerkin/Rant](https://github.com/TheBerkin/Rant)
 
-[Audio Kit](https://github.com/audiokit/AudioKit)
+[Audio Kit - audiokit/AudioKit](https://github.com/audiokit/AudioKit)
 
 [Interactive Stories - CartoDB/odyssey.js](https://github.com/CartoDB/odyssey.js)
 
