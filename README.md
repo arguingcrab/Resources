@@ -27,6 +27,8 @@ Table of Contents
 [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
 #### PHP
 [tpunt/PHP7-Reference](https://github.com/tpunt/PHP7-Reference)
+
+[Design Patterns - domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
 #### Elm
 [isRuslan/awesome-elm](https://github.com/isRuslan/awesome-elm)
 #### Javascript
@@ -131,3 +133,5 @@ Table of Contents
 [Code Combat - codecombat/codecombat](https://github.com/codecombat/codecombat)
 
 [Rich Text Editor - guardian/scribe](https://github.com/guardian/scribe)
+
+[A minimalist writing zone - tholman/zenpen](https://github.com/tholman/zenpen)
