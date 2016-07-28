@@ -127,3 +127,7 @@ Table of Contents
 [Audio Kit](https://github.com/audiokit/AudioKit)
 
 [Interactive Stories - CartoDB/odyssey.js](https://github.com/CartoDB/odyssey.js)
+
+[Code Combat - codecombat/codecombat](https://github.com/codecombat/codecombat)
+
+[Rich Text Editor - guardian/scribe](https://github.com/guardian/scribe)
