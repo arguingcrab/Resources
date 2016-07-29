@@ -4,6 +4,7 @@
 - [Conferences](#conferences)
 - [Books & Reading Material](#books--reading-material)
   - [Command Line](#command-line)
+  - [Mixed Book Collection](#mixed-book-collection)
   - [Courses](#courses)
   - [Security](#security)
   - [Elm](#elm)
@@ -28,7 +29,7 @@
 [Conquering The Command Line](http://conqueringthecommandline.com/book)
 
 [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-### <a name="book-collection"></a>Collection of Various Books & Materials (Mixed)
+### Mixed Book Collection
 [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 
 [AntJanus/Books](https://github.com/AntJanus/Books)
