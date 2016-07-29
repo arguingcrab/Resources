@@ -151,6 +151,8 @@
 [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
 [bolshchikov/programmer-must-see](https://github.com/bolshchikov/programmer-must-see)
+
+[simransdsu/Web-Dev-Free-Resources](https://github.com/simransdsu/Web-Dev-Free-Resources)
 ## Design
 [App Tours for Users - HubSpot/shepherd ](https://github.com/HubSpot/shepherd)
 
