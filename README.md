@@ -193,8 +193,12 @@
 
 [A brief history of humankind in Javascript simulation game - https://github.com/anvoz/world-js](https://github.com/anvoz/world-js)
 
+[Civ Simulator - ftomassetti/civs](https://github.com/ftomassetti/civs)
+
+[Language Generator - ftomassetti/langgen](https://github.com/ftomassetti/langgen)
+
 [munificent/rooms-and-mazes](https://github.com/munificent/rooms-and-mazes)
 
 [Mindwerks/worldengine](https://github.com/Mindwerks/worldengine)
 
-[/Mindwerks/worldengine-java](https://github.com/Mindwerks/worldengine-java)
+[Mindwerks/worldengine-java](https://github.com/Mindwerks/worldengine-java)
