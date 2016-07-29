@@ -25,6 +25,8 @@
 [amaboura/free-for-mobile-dev](https://github.com/amaboura/free-for-mobile-dev)
 
 [joubertredrat/awesome-devops](https://github.com/joubertredrat/awesome-devops)
+
+[Stock Resources - neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 ## Conferences
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
 
@@ -48,6 +50,8 @@
 [Front End Dev Resources - dmytroyarmak/frontend-dev-resources](https://github.com/dmytroyarmak/frontend-dev-resources)
 
 [caio-ribeiro-pereira/devfreebooks](https://github.com/caio-ribeiro-pereira/devfreebooks)
+
+[jshomes/learning-resources](https://github.com/jshomes/learning-resources)
 ### Courses
 [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
