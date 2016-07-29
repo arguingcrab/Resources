@@ -12,6 +12,7 @@
   - [Web Design](#web-design)
   - [Interview](#interview)
   - [Other](#other)
+  - [Game Programming](#game-programming)
 - [Videos](#videos)
 - [Design](#design)
 - [Challenges & Ideas](#challenges--ideas)
@@ -123,6 +124,8 @@
 [Papers - papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
 [Functional Programming - MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+### Game Programming
+[munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns)
 ## Videos
 [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
