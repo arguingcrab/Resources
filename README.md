@@ -1,3 +1,4 @@
+# Compilation of Free Resources
 ***
 ### Table of Contents
 - [Free Dev Things](#free-dev-things)
@@ -19,8 +20,10 @@
 - [Fun & Cool Things](#fun--cool-things)
 
 ***
-## Free Dev Things
+## Collection of Free Things
 [**Collection of free online resources for various technologies, languages, and tools - jbranchaud/resources**](https://github.com/jbranchaud/resources)
+
+[A list of free development resources - VanDalkvist/resources](https://github.com/VanDalkvist/resources)
 
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
