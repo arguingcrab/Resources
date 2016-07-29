@@ -1,9 +1,20 @@
 ***
 ### Table of Contents
-#### [Free Dev Things](#free-dev-things)
-#### [Conferences](#conferences)
-#### [Books & Reading Material](#conferences)
-- [Command Line]()
+- [Free Dev Things](#free-dev-things)
+- [Conferences](#conferences)
+- [Books & Reading Material](#books--reading-material)
+  - [Command Line](#command-line)
+  - [Courses](#courses)
+  - [Security](#security)
+  - [Elm](#elm)
+  - [JavaScript](#javascript)
+  - [Web Design](#web-design)
+  - [Interview](#interview)
+  - [Other](#other)
+- [Videos](#videos)
+- [Design](#design)
+- [Challenges & Ideas](#chalenges--ideas)
+- [Fun & Cool Things](#fun--cool-things)
 
 ***
 ## Free Dev Things
@@ -12,12 +23,12 @@
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
 
 [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
-## Books / Reading Material
+## Books & Reading Material
 ### Command Line
 [Conquering The Command Line](http://conqueringthecommandline.com/book)
 
 [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-### Collection of Various Books & Materials (Mixed)
+### <a name="book-collection"></a>Collection of Various Books & Materials (Mixed)
 [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 
 [AntJanus/Books](https://github.com/AntJanus/Books)
@@ -137,7 +148,7 @@
 [What Does This Function Do?](http://tutorialzine.com/2014/08/what-does-this-function-do/)
 
 [kamyu104/LeetCode](https://github.com/kamyu104/LeetCode)
-## Fun / Cool Things
+## Fun & Cool Things
 [2D HTML5 Games with Phaser - photonstorm/phaser](https://github.com/photonstorm/phaser)
 
 [Gamify Your Tasks - HabitRPG/habitrpg](https://github.com/HabitRPG/habitrpg)
