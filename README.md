@@ -4,18 +4,18 @@ Table of Contents
 []()
 
 ***
-### Free Dev Things
+## Free Dev Things
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 ### Conferences
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
 
 [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
-### Books / Reading Material
-#### Command Line
+## Books / Reading Material
+### Command Line
 [Conquering The Command Line](http://conqueringthecommandline.com/book)
 
 [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-#### Collection of Various Books & Materials (Mixed)
+### Collection of Various Books & Materials (Mixed)
 [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 
 [AntJanus/Books](https://github.com/AntJanus/Books)
@@ -27,19 +27,19 @@ Table of Contents
 [Front End Development Bookmarks - dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 [Front End Dev Resources - dmytroyarmak/frontend-dev-resources](https://github.com/dmytroyarmak/frontend-dev-resources)
-#### Courses
+### Courses
 [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
 [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes)
-#### Security
+### Security
 [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
-#### PHP
+### PHP
 [tpunt/PHP7-Reference](https://github.com/tpunt/PHP7-Reference)
 
 [Design Patterns - domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
-#### Elm
+### Elm
 [isRuslan/awesome-elm](https://github.com/isRuslan/awesome-elm)
-#### Javascript
+### Javascript
 [nzakas/computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)
 
 [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
@@ -81,7 +81,7 @@ Table of Contents
 [Beginner's Guide to Meteor](http://meteortips.com/first-meteor-tutorial/)
 
 [Angular JS Learning jmcunningham/AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
-#### Web Design
+### Web Design
 [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 
 [A List Apart - Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
@@ -93,11 +93,11 @@ Table of Contents
 [5 Really Useful Responsive Web Design Patterns](https://codemyviews.com/blog/5-really-useful-responsive-web-design-patterns)
 
 [Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
-#### Interview
+### Interview
 [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
-#### Other
+### Other
 [Reverse Engineering for Beginners - dennis714/RE-for-beginners](https://github.com/dennis714/RE-for-beginners)
 
 [GitBook](https://www.gitbook.com/@gitbookio)
@@ -109,11 +109,11 @@ Table of Contents
 [Papers - papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
 [Functional Programming - MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
-### Videos
+## Videos
 [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
 [bolshchikov/programmer-must-see](https://github.com/bolshchikov/programmer-must-see)
-### Design
+## Design
 [App Tours for Users - HubSpot/shepherd ](https://github.com/HubSpot/shepherd)
 
 [casesandberg/react-color](https://github.com/casesandberg/react-color)
@@ -125,7 +125,7 @@ Table of Contents
 [Public Icons on a Public Domain](http://publicicons.org/)
 
 [Tasty CSS-Animated Hamburgers](https://jonsuh.com/hamburgers/)
-### Challenges & Ideas
+## Challenges & Ideas
 [karan/Projects](https://github.com/karan/Projects) with [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions)
 
 [100 Ideas for Computing - samsquire/ideas](https://github.com/samsquire/ideas)
@@ -135,7 +135,7 @@ Table of Contents
 [What Does This Function Do?](http://tutorialzine.com/2014/08/what-does-this-function-do/)
 
 [kamyu104/LeetCode](https://github.com/kamyu104/LeetCode)
-### Fun / Cool Things
+## Fun / Cool Things
 [2D HTML5 Games with Phaser - photonstorm/phaser](https://github.com/photonstorm/phaser)
 
 [Gamify Your Tasks - HabitRPG/habitrpg](https://github.com/HabitRPG/habitrpg)
