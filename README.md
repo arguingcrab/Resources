@@ -63,6 +63,8 @@
 [Free Code Camp - https://github.com/FreeCodeCamp/FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp)
 
 [open-source-society/computer-science](https://github.com/open-source-society/computer-science)
+
+[https://github.com/MSFTImagine/computerscience](https://github.com/MSFTImagine/computerscience)
 ### Security
 [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
 ### PHP
