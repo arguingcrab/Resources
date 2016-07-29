@@ -167,3 +167,5 @@ Table of Contents
 [JS Library for Card Games - /einaregilsson/cards.js](https://github.com/einaregilsson/cards.js)
 
 [Sketch Templates for Web](http://www.interfacesketch.com/)
+
+[Long Press Special Characters - quentint/long-press](https://github.com/quentint/long-press)
