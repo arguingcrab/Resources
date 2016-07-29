@@ -1,7 +1,9 @@
 ***
-Table of Contents
-
-[]()
+### Table of Contents
+#### [Free Dev Things](#free-dev-things)
+#### [Conferences](#conferences)
+#### [Books & Reading Material](#conferences)
+- [Command Line]()
 
 ***
 ## Free Dev Things
@@ -10,7 +12,7 @@ Table of Contents
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
 
 [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
-## Books / Reading Material
+## Books & Reading Material
 ### Command Line
 [Conquering The Command Line](http://conqueringthecommandline.com/book)
 
