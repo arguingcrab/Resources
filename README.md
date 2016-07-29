@@ -21,6 +21,10 @@
 ***
 ## Free Dev Things
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
+[amaboura/free-for-mobile-dev](https://github.com/amaboura/free-for-mobile-dev)
+
+[joubertredrat/awesome-devops](https://github.com/joubertredrat/awesome-devops)
 ## Conferences
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
 
@@ -42,12 +46,16 @@
 [Front End Development Bookmarks - dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 [Front End Dev Resources - dmytroyarmak/frontend-dev-resources](https://github.com/dmytroyarmak/frontend-dev-resources)
+
+[caio-ribeiro-pereira/devfreebooks](https://github.com/caio-ribeiro-pereira/devfreebooks)
 ### Courses
 [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
 [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes)
 
 [Free Code Camp - https://github.com/FreeCodeCamp/FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp)
+
+[open-source-society/computer-science](https://github.com/open-source-society/computer-science)
 ### Security
 [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
 ### PHP
