@@ -25,6 +25,8 @@ Table of Contents
 [Learn **X** in **Y** Minutes - adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
 
 [Front End Development Bookmarks - dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+[Front End Dev Resources - dmytroyarmak/frontend-dev-resources](https://github.com/dmytroyarmak/frontend-dev-resources)
 #### Courses
 [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
