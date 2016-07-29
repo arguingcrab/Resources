@@ -75,6 +75,16 @@ Table of Contents
 [Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/)
 
 [Beginner's Guide to Meteor](http://meteortips.com/first-meteor-tutorial/)
+#### Web Design
+[9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+
+[A List Apart - Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
+
+[Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+
+[Responsive Design in 3 Steps](http://webdesignerwall.com/tutorials/responsive-design-in-3-steps)
+
+[5 Really Useful Responsive Web Design Patterns](https://codemyviews.com/blog/5-really-useful-responsive-web-design-patterns)
 #### Interview
 [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
@@ -111,6 +121,10 @@ Table of Contents
 [karan/Projects](https://github.com/karan/Projects) with [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions)
 
 [100 Ideas for Computing - samsquire/ideas](https://github.com/samsquire/ideas)
+
+[Guess The Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language/)
+
+[What Does This Function Do?](http://tutorialzine.com/2014/08/what-does-this-function-do/)
 ### Fun / Cool Things
 [2D HTML5 Games with Phaser - photonstorm/phaser](https://github.com/photonstorm/phaser)
 
@@ -143,3 +157,5 @@ Table of Contents
 [HTML5/JavaScript Gauntlet - jakesgordon/javascript-gauntlet](https://github.com/jakesgordon/javascript-gauntlet)
 
 [JS Library for Card Games - /einaregilsson/cards.js](https://github.com/einaregilsson/cards.js)
+
+[Sketch Templates for Web](http://www.interfacesketch.com/)
