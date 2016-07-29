@@ -126,6 +126,10 @@
 [Functional Programming - MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 ### Game Programming
 [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns)
+
+[munificent/rooms-and-mazes](https://github.com/munificent/rooms-and-mazes)
+
+[Mindwerks/worldengine](https://github.com/Mindwerks/worldengine)
 ## Videos
 [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
