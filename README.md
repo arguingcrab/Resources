@@ -18,7 +18,7 @@
 - [Fun & Cool Things](#fun--cool-things)
 
 ***
-## Free Dev Things  <small>[^](#table-of-contents)</span>
+## Free Dev Things
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 ## Conferences
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
