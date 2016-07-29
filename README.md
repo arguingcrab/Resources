@@ -7,7 +7,9 @@ Table of Contents
 ### Free Dev Things
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 ### Conferences
-[svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
+[Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
+
+[RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 ### Books / Reading Material
 #### Command Line
 [Conquering The Command Line](http://conqueringthecommandline.com/book)
