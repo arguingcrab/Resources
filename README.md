@@ -13,6 +13,7 @@
   - [Interview](#interview)
   - [Other](#other)
   - [Game Programming](#game-programming)
+  - [Java](#java)
 - [Videos](#videos)
 - [Design](#design)
 - [Challenges & Ideas](#challenges--ideas)
@@ -147,6 +148,9 @@
 [Functional Programming - MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 ### Game Programming
 [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns)
+
+### Java
+[hzlmn/android-learning](https://github.com/hzlmn/android-learning)
 ## Videos
 [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
