@@ -14,11 +14,11 @@
   - [Other](#other)
 - [Videos](#videos)
 - [Design](#design)
-- [Challenges & Ideas](#chalenges--ideas)
+- [Challenges & Ideas](#challenges--ideas)
 - [Fun & Cool Things](#fun--cool-things)
 
 ***
-## Free Dev Things
+## Free Dev Things  <small>[^](#table-of-contents)</span>
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 ## Conferences
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
