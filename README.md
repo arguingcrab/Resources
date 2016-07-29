@@ -17,7 +17,9 @@
 - [Design](#design)
 - [Challenges & Ideas](#challenges--ideas)
 - [Fun & Cool Things](#fun--cool-things)
-- [Conferences](#conferences) *most likely not free
+- [Probably Not Free Things](#probably-not-free-things)
+  - [Conferences](#conferences)
+  - [Freelancing](#freelancing)
 
 ***
 ## Collection of Free Things
@@ -121,8 +123,6 @@
 [Responsive Design in 3 Steps](http://webdesignerwall.com/tutorials/responsive-design-in-3-steps)
 
 [5 Really Useful Responsive Web Design Patterns](https://codemyviews.com/blog/5-really-useful-responsive-web-design-patterns)
-
-[Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
 ### Interview
 [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
@@ -157,6 +157,10 @@
 [Public Icons on a Public Domain](http://publicicons.org/)
 
 [Tasty CSS-Animated Hamburgers](https://jonsuh.com/hamburgers/)
+
+[acasaprogramming/Webdesigner-s-ultimate-list](https://github.com/acasaprogramming/Webdesigner-s-ultimate-list)
+
+[Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
 ## Challenges & Ideas
 [karan/Projects](https://github.com/karan/Projects) with [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions)
 
@@ -216,9 +220,11 @@
 
 [Mindwerks/worldengine-java](https://github.com/Mindwerks/worldengine-java)
 
-## Conferences
-**Probably & Most Likely Not Free**
-
+## Probably Not Free Things
+###Conferences
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
 
 [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
+
+###Freelancing
+[https://github.com/HackerYou/freelancing](https://github.com/HackerYou/freelancing)
