@@ -12,7 +12,7 @@
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
 
 [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
-## Books & Reading Material
+## Books / Reading Material
 ### Command Line
 [Conquering The Command Line](http://conqueringthecommandline.com/book)
 
