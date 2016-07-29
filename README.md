@@ -128,10 +128,6 @@
 [Functional Programming - MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 ### Game Programming
 [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns)
-
-[munificent/rooms-and-mazes](https://github.com/munificent/rooms-and-mazes)
-
-[Mindwerks/worldengine](https://github.com/Mindwerks/worldengine)
 ## Videos
 [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
@@ -194,3 +190,11 @@
 [Sketch Templates for Web](http://www.interfacesketch.com/)
 
 [Long Press Special Characters - quentint/long-press](https://github.com/quentint/long-press)
+
+[A brief history of humankind in Javascript simulation game - https://github.com/anvoz/world-js](https://github.com/anvoz/world-js)
+
+[munificent/rooms-and-mazes](https://github.com/munificent/rooms-and-mazes)
+
+[Mindwerks/worldengine](https://github.com/Mindwerks/worldengine)
+
+[/Mindwerks/worldengine-java](https://github.com/Mindwerks/worldengine-java)
