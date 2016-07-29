@@ -55,6 +55,10 @@
 [caio-ribeiro-pereira/devfreebooks](https://github.com/caio-ribeiro-pereira/devfreebooks)
 
 [jshomes/learning-resources](https://github.com/jshomes/learning-resources)
+
+[Our Code Blog's list of free books](https://ourcodeblog.com/study/)
+
+[Microsoft Virtual Academy](https://mva.microsoft.com/)
 ### Courses
 [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
