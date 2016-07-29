@@ -131,6 +131,8 @@ Table of Contents
 [Guess The Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language/)
 
 [What Does This Function Do?](http://tutorialzine.com/2014/08/what-does-this-function-do/)
+
+[kamyu104/LeetCode](https://github.com/kamyu104/LeetCode)
 ### Fun / Cool Things
 [2D HTML5 Games with Phaser - photonstorm/phaser](https://github.com/photonstorm/phaser)
 
