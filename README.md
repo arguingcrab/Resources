@@ -79,6 +79,8 @@ Table of Contents
 [Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/)
 
 [Beginner's Guide to Meteor](http://meteortips.com/first-meteor-tutorial/)
+
+[Angular JS Learning jmcunningham/AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 #### Web Design
 [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 
