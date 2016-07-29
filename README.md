@@ -20,6 +20,8 @@
 
 ***
 ## Free Dev Things
+[**Collection of free online resources for various technologies, languages, and tools - jbranchaud/resources**](https://github.com/jbranchaud/resources)
+
 [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 [amaboura/free-for-mobile-dev](https://github.com/amaboura/free-for-mobile-dev)
