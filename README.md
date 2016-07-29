@@ -1,8 +1,7 @@
 # Compilation of Free Resources
 ***
 ### Table of Contents
-- [Free Dev Things](#free-dev-things)
-- [Conferences](#conferences)
+- [Collection of Free Things](#collection-of-free-things)
 - [Books & Reading Material](#books--reading-material)
   - [Command Line](#command-line)
   - [Mixed Book Collection](#mixed-book-collection)
@@ -18,10 +17,11 @@
 - [Design](#design)
 - [Challenges & Ideas](#challenges--ideas)
 - [Fun & Cool Things](#fun--cool-things)
+- [Conferences](#conferences) *most likely not free
 
 ***
 ## Collection of Free Things
-[**Collection of free online resources for various technologies, languages, and tools - jbranchaud/resources**](https://github.com/jbranchaud/resources)
+[Collection of free online resources for various technologies, languages, and tools - jbranchaud/resources](https://github.com/jbranchaud/resources)
 
 [A list of free development resources - VanDalkvist/resources](https://github.com/VanDalkvist/resources)
 
@@ -32,10 +32,6 @@
 [joubertredrat/awesome-devops](https://github.com/joubertredrat/awesome-devops)
 
 [Stock Resources - neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
-## Conferences
-[Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
-
-[RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 ## Books & Reading Material
 ### Command Line
 [Conquering The Command Line](http://conqueringthecommandline.com/book)
@@ -219,3 +215,10 @@
 [Mindwerks/worldengine](https://github.com/Mindwerks/worldengine)
 
 [Mindwerks/worldengine-java](https://github.com/Mindwerks/worldengine-java)
+
+## Conferences
+**Probably & Most Likely Not Free**
+
+[Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
+
+[RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
