@@ -91,6 +91,8 @@ Table of Contents
 [Responsive Design in 3 Steps](http://webdesignerwall.com/tutorials/responsive-design-in-3-steps)
 
 [5 Really Useful Responsive Web Design Patterns](https://codemyviews.com/blog/5-really-useful-responsive-web-design-patterns)
+
+[Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
 #### Interview
 [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
