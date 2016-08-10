@@ -135,6 +135,8 @@
 
 [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 ### Other
+[Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
+
 [Reverse Engineering for Beginners - dennis714/RE-for-beginners](https://github.com/dennis714/RE-for-beginners)
 
 [GitBook](https://www.gitbook.com/@gitbookio)
