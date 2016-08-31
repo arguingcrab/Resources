@@ -243,6 +243,14 @@
 [1Clipboard - Access your clipboard anywhere on any device](http://1clipboard.io/)
 
 [Web Torrent](https://webtorrent.io/desktop/)
+
+[Ghost](https://ghost.org/)
+
+[Franz](http://meetfranz.com/)
+
+[Bit Bloq - code with blocks](http://bitbloq.bq.com/#/)
+
+[Whatsie - Whatsapp desktop app](https://whatsie.chat/)
 ## Probably Not Free Things
 ###Conferences
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
