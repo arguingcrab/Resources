@@ -251,6 +251,8 @@
 [Bit Bloq - code with blocks](http://bitbloq.bq.com/#/)
 
 [Whatsie - Whatsapp desktop app](https://whatsie.chat/)
+
+[Vectr](https://vectr.com/)
 ## Probably Not Free Things
 ###Conferences
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
