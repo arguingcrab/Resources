@@ -234,6 +234,10 @@
 
 [Mindwerks/worldengine-java](https://github.com/Mindwerks/worldengine-java)
 
+[Pixate](http://www.pixate.com/)
+
+[Cocos Creator](http://www.cocos2d-x.org/)
+
 ## Probably Not Free Things
 ###Conferences
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
