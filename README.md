@@ -241,6 +241,8 @@
 [Ionic Lab](http://lab.ionic.io/)
 
 [1Clipboard - Access your clipboard anywhere on any device](http://1clipboard.io/)
+
+[Web Torrent](https://webtorrent.io/desktop/)
 ## Probably Not Free Things
 ###Conferences
 [Upcoming Conferences - svenanders/upcoming-conferences](https://github.com/svenanders/upcoming-conferences)
