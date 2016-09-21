@@ -41,6 +41,8 @@
 
 [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 ### Mixed Book Collection
+[Trade Pub Online Computer Books](http://onlinecomputerbooks.tradepub.com/)
+
 [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 
 [AntJanus/Books](https://github.com/AntJanus/Books)
