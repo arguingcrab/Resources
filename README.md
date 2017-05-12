@@ -188,6 +188,8 @@
 
 [kamyu104/LeetCode](https://github.com/kamyu104/LeetCode)
 ## Fun & Cool Things
+[http://exercism.io](http://exercism.io)
+
 [2D HTML5 Games with Phaser - photonstorm/phaser](https://github.com/photonstorm/phaser)
 
 [Gamify Your Tasks - HabitRPG/habitrpg](https://github.com/HabitRPG/habitrpg)
